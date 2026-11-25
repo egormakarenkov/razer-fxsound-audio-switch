@@ -1,0 +1,9 @@
+{
+  "SurroundId": "{0.0.0.00000000}.{REPLACE-WITH-RAZER-71-ENDPOINT-GUID}",
+  "FxId": "{0.0.0.00000000}.{REPLACE-WITH-FXSOUND-ENDPOINT-GUID}",
+  "PhysicalId": "{0.0.0.00000000}.{REPLACE-WITH-PHYSICAL-SPEAKER-GUID}",
+  "PhysicalName": "Speakers (USB Audio)",
+  "FxPath": "C:\\Program Files\\FxSound LLC\\FxSound\\FxSound.exe",
+  "RazerPath": "C:\\Program Files\\Razer\\RzAppEngine\\rzappengine.exe",
+  "DeviceRegistry": "HKCU:\\Software\\DFX\\13\\23\\devices"
+}

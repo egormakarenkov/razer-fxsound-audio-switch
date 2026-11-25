@@ -1,0 +1,5 @@
+config.json
+state.json
+switch.log*
+watcher.pid
+backup/
